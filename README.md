@@ -1,5 +1,6 @@
 # rcgn
  Identify simple CAPTCHA by using OpenCV lib. Include pre-treatment of picture and identification by SVM
+ 
  If you want to know more about how to identify CAPTCHA, please see the introduction of this project ----   http://blog.csdn.net/ysc6688/article/category/2913009
 
 First please make sure that OpenCV (version 2.4.9 or higher) is installed and the PATH has been configured.
