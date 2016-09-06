@@ -1,7 +1,7 @@
 # rcgn
  Identify simple CAPTCHA by using OpenCV lib. Include pre-treatment of picture and identification by SVM
  
- ![image](http://img.blog.csdn.net/20150424133225831?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXNjNjY4OA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+ ![image](https://raw.githubusercontent.com/ysc6688/rcgn/master/result.jpg)
  
  If you want to know more about how to identify CAPTCHA, please see the introduction of this project ----   http://blog.csdn.net/ysc6688/article/category/2913009
 
